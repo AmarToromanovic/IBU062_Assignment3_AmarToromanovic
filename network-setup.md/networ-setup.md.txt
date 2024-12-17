@@ -11,3 +11,20 @@
   - IP Address: 168.90.0.x
 - **Laptop1**
   - IP Address: 168.90.0.x
+# Network Setup
+
+## Devices
+- **Router1** (Model: Cisco 1941)
+  - IP Address: 168.90.0.1 (GigabitEthernet0/0), 210.3.14.1 (GigabitEthernet0/1)
+- **Switch1** (Model: Cisco 2960)
+  - Connected Hosts: PC1, Laptop1, PC3
+- **Switch2** (Model: Cisco 2960)
+  - Connected Hosts: Server1, PC2, PC4
+- **PC1**
+  - IP Address: 168.90.0.x (assigned via DHCP)
+- **Laptop1**
+  - IP Address: 168.90.0.x (assigned via DHCP)
+- **PC3**
+  - IP Address: 168.90.0.x (assigned via DHCP)
+- **PC4**
+  - IP Address: 210.3.14.x (assigned via DHCP)
