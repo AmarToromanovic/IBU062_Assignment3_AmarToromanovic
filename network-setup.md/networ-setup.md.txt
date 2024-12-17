@@ -1,0 +1,13 @@
+# Network Setup
+
+## Devices
+- **Router1** (Model: Cisco 1941)
+  - IP Address: 168.90.0.1 (GigabitEthernet0/0), 210.3.14.1 (GigabitEthernet0/1)
+- **Switch1** (Model: Cisco 2960)
+  - Connected Hosts: PC1, Laptop1
+- **Switch2** (Model: Cisco 2960)
+  - Connected Hosts: Server1, PC2
+- **PC1**
+  - IP Address: 168.90.0.x
+- **Laptop1**
+  - IP Address: 168.90.0.x
